@@ -5,6 +5,7 @@ Link to the video: https://drive.google.com/file/d/1Dye6-1fTO7mrorBGl4sib-1s0U7s
 Below you can see pictures:
 
 Project 1
+
 <img width="280" height="279" alt="image" src="https://github.com/user-attachments/assets/11e0ed41-ac6b-4c09-9f56-8308b019a155" />
 <img width="244" height="256" alt="image" src="https://github.com/user-attachments/assets/bdf2bee7-14c0-4b53-9789-718e0520e9ca" />
 <img width="405" height="254" alt="image" src="https://github.com/user-attachments/assets/24a1ee54-07eb-479a-91ef-da6bc072e1a6" />
